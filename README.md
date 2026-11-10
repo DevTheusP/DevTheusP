@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d1117,100:21262d&height=180&section=header&text=Matheus%20Persch&fontColor=c9d1d9&fontSize=46&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20UFPel&descAlignY=60&descSize=18" alt="Matheus Persch" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=680&lines=AWS%20Certified%20AI%20Practitioner%20e%20Cloud%20Practitioner;Desenvolvedor%20full%20stack%20na%20HUT8%20Empresa%20J%C3%BAnior;Modelo%20destilado%20publicado%20no%20Hugging%20Face;Maratona%20de%20Programa%C3%A7%C3%A3o%20da%20SBC%202026" alt="AWS Certified AI Practitioner, full stack na HUT8, modelo publicado no Hugging Face" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=680&lines=AWS%20Certified%20AI%20Practitioner%20e%20Cloud%20Practitioner;Desenvolvedor%20full%20stack%20na%20HUT8%20Empresa%20J%C3%BAnior;Aprendendo%20IA%20aplicada%20na%20pr%C3%A1tica;Maratona%20de%20Programa%C3%A7%C3%A3o%20da%20SBC%202026" alt="AWS Certified AI Practitioner, full stack na HUT8, aprendendo IA aplicada" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na UFPel (6º semestre) e desenvolvedor full stack na HUT8, a empresa júnior do curso. O que mais me interessa hoje é IA aplicada: como agentes guardam e recuperam memória, como treinar modelos pequenos para tarefas específicas e, principalmente, como medir se uma solução funciona de verdade.
+Sou estudante de Ciência da Computação na UFPel (6º semestre) e desenvolvedor full stack na HUT8, a empresa júnior do curso. Nos últimos meses venho aprendendo IA aplicada com projetos pequenos, como um benchmark de memória para agentes e o treino de um modelo menor com LoRA, e escrevo no dev.to sobre o que aprendo, incluindo os erros que cometi no caminho.
 
 Pelotas/RS, disponível para trabalho remoto.
 
