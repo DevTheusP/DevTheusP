@@ -1,0 +1,20 @@
+name: Atualizar posts do dev.to
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # todo dia às 6h de Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/devtheusp"
+          max_post_count: 4
+          commit_message: "Atualiza a lista de posts do dev.to"
