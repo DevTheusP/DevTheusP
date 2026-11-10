@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d1117,100:21262d&height=180&section=header&text=Matheus%20Persch&fontColor=c9d1d9&fontSize=46&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20UFPel&descAlignY=60&descSize=18" alt="Matheus Persch" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20na%20UFPel;LLMs%2C%20agentes%20de%20IA%20e%20avalia%C3%A7%C3%A3o%20de%20modelos;Treino%20modelos%20pequenos%20e%20me%C3%A7o%20o%20que%20importa" alt="LLMs, agentes de IA e avaliação de modelos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=680&lines=AWS%20Certified%20AI%20Practitioner%20e%20Cloud%20Practitioner;Desenvolvedor%20full%20stack%20na%20HUT8%20Empresa%20J%C3%BAnior;Modelo%20destilado%20publicado%20no%20Hugging%20Face;Maratona%20de%20Programa%C3%A7%C3%A3o%20da%20SBC%202026" alt="AWS Certified AI Practitioner, full stack na HUT8, modelo publicado no Hugging Face" />
 </p>
 
 <p align="center">
