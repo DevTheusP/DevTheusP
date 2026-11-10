@@ -40,8 +40,8 @@ Pelotas/RS, disponível para trabalho remoto.
 
 <!-- BLOG-POST-LIST:START -->
 - [Destilei um modelo 14 vezes menor, ele pareceu pior, e o problema estava no meu benchmark](https://dev.to/devtheusp/destilei-um-modelo-14-vezes-menor-ele-pareceu-pior-e-o-problema-estava-no-meu-benchmark-1cc)
-- [Engenharia reversa: do Mario 64 ao GTA no navegador (e agora com IA no meio)](https://dev.to/devtheusp/engenharia-reversa-do-mario-64-ao-gta-no-navegador-e-agora-com-ia-no-meio-4lan)
-- [Como funciona a memória de um agente de IA (e o que acontece quando ela esquece do jeito errado)](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
+- [Engenharia reversa: do Mario 64 ao GTA no navegador &lpar;e agora com IA no meio&rpar;](https://dev.to/devtheusp/engenharia-reversa-do-mario-64-ao-gta-no-navegador-e-agora-com-ia-no-meio-4lan)
+- [Como funciona a memória de um agente de IA &lpar;e o que acontece quando ela esquece do jeito errado&rpar;](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
 - [Jev e System One Models: quando o LLM é a ferramenta errada](https://dev.to/devtheusp/jev-e-system-one-models-quando-o-llm-e-a-ferramenta-errada-16cp)
 <!-- BLOG-POST-LIST:END -->
 
